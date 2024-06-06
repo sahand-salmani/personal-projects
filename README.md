@@ -1,6 +1,6 @@
 # Adult Income EDA and Classification Project
 
-**Summary**
+## Summary
 
 In this project, we conducted a thorough exploratory data analysis (EDA) and built a classification model on the Adult Income dataset. The project encompasses the following stages:
 
