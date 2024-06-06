@@ -12,4 +12,4 @@ In this project, we conducted a thorough exploratory data analysis (EDA) and bui
 
 4. **Model Validation:** To ensure the robustness of the models, we validated them using techniques such as cross-validation and testing on a separate validation set.
 - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Project Link:** **GitHub Repository:** [Adult Income EDA and Classification](https://github.com/sahand-salmani/adult-income-dataset-EDA-classification)
+- **Project Link:** [Adult Income EDA and Classification](https://github.com/sahand-salmani/adult-income-dataset-EDA-classification)
