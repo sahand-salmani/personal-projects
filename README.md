@@ -1,6 +1,6 @@
-# Adult Income EDA and Classification Project
+## Adult Income EDA and Classification Project
 
-## Summary
+### Summary
 
 In this project, we conducted a thorough exploratory data analysis (EDA) and built a classification model on the Adult Income dataset. The project encompasses the following stages:
 
@@ -13,3 +13,13 @@ In this project, we conducted a thorough exploratory data analysis (EDA) and bui
 4. **Model Validation:** To ensure the robustness of the models, we validated them using techniques such as cross-validation and testing on a separate validation set.
 - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Project Link:** [Adult Income EDA and Classification](https://github.com/sahand-salmani/adult-income-dataset-EDA-classification)
+
+
+## Pizza Data Set Project
+
+### Summary
+
+This project involves exploratory data analysis (EDA), Principal Component Analysis (PCA), and clustering on a pizza data set containing various nutritional and brand information. The steps undertaken include loading and preprocessing the data, conducting PCA for dimensionality reduction, applying k-means clustering, and visualizing the results using static and interactive plots.
+
+**Technologies Used:**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly
+- **Project Link:** [Pizza Data Set Project](https://github.com/sahand-salmani/pizza-pca-clustering)
